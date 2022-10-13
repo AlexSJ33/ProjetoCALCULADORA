@@ -1,5 +1,3 @@
-
-from sre_parse import DIGITS
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget,QGridLayout
 from PyQt5.QtWidgets import QPushButton, QLineEdit, QSizePolicy, QLabel
